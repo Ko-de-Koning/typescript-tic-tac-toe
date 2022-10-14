@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The code was converted to TypeScript with guidance from 
+https://www.youtube.com/watch?v=Fuz8GTctT5o
+
 ## Available Scripts
 
 In the project directory, you can run:
